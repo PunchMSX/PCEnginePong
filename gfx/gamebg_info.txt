@@ -1,0 +1,7 @@
+Image2PCE 0.1.91 - Export date : 29/10/2022 18:59:00
+BAT.bin 2048 bytes
+PAL.bin 64 bytes
+DATA.bin 17664 bytes
+-------------------------
+BAT Size 32x30 Tiles -> 256x240 Pixels
+2 palettes used.

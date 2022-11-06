@@ -1,0 +1,41 @@
+.TRACK  MURICAAA
+.CHANNEL 0 setup_baddudes
+T45 V31
+
+.CHANNEL 1 ch1_pianomelody
+O4 P12,15 @46 @E04
+a+8.g16d+gl8a+>dfdd+<a+8>d+gg+4g.f16d+2&d+d-c+d+d+2.fd+d1&d1&d2.<a+.g16d+4
+g2fgg+l16fg+>c+2<g8.g+l8a+d+2&d+a+>cc+l16<a+>c+f+2f+8.f+l8gd+2&d+fgg+2>c+4
+c4<a+2.a+>cl16c+<a+l4f+.a+>c+l1d+&d+&d+&d+&d+&d+&d+&d+&d+&d+2r4l8<<f.c+16
+d+4g2fgg+l16fg+>c+2<g8.g+l8a+d+2&d+a+>cc+l16<a+>c+f+2f+8.f+l8gd+2&d+f
+gg+2>c+4c4<a+2.a+>cl16c+<a+l4f+.a+>c+d+1&d+2
+rr1r1r1r1r1r1r1r1r1
+
+.CHANNEL 2 ch1_pianomelody2
+O3 P12,15 @45 @E04 @D-2
+a+8.g16d+gl8a+>dfdd+<a+8>d+gg+4g.f16d+2&d+d-c+d+d+2.fd+d1&d1&d2.<a+.g16d+4g2fgg+l16fg+>c+2<g8.g+l8a+<d+2&d+>a+>cc+l16<a+>c+f+2f+8.f+l8gd+2&d+fg
+g+2>c+4c4<a+2.a+>cl16c+<a+l4f+.a+>c+l1d+&d+&d+&d+&d+&d+&d+&d+&d+&d+2.l8<<f.c+16d+4g2fgg+l16fg+>c+2<g8.g+
+l8a+<d+2&d+>a+>cc+l16<a+>c+f+2f+8.f+l8gd+2&d+fgg+2>c+4c4<a+2.a+>cl16c+<a+l4f+.a+>c+d+1&d+2
+r4r1r1r1r1r1r1r1r1r1
+
+.CHANNEL 3 ch1_pianomelody2b
+O4 P15,12 @09 @E01
+l1rrrrrrrrrrrrl1rr4.>a+16b+16a+2.f+>d+rrrrl16&d+<<g+>c+fg+
+a+g+a+g+a+g+a+g+a+g+l1a+rrrrrrrrrr8.a+16b+16a+2.f+>d+rrrrl16r<<g+>c+fg+a+g+a+g+a+g+a+g+a+g+a+
+r2r4r1r1r1r1
+
+
+.CHANNEL 4 ch1_pianomelody2c
+O4 P15,12 @09 @E01 
+l1rrrrrrrrrrrrrrrr2.l8rg+a+g+g1>d+2l4ff+g+2f+fd+2ff+g+1d+2ff+g+2f+g+a+2g+f+l1>c+rrrrrrrrr2l8r<<g+a+g+g1>d+2l4ff+g+2f+fd+2ff+
+g+1d+2ff+g+2f+g+a+2g+f+>c+1
+r2r
+
+.CHANNEL 5 ch2_bass
+O4 P14,14 @21 @E04
+rl2<d+dccl1<ba+a+l4>d+<a+>d+<a+>d+<a+>d+<a+>d+<a+>d+<a+>c+<g+>c+<g+>d+<a+>d+<a+>
+c+<f+>c+<f+>d+<a+>d+<a+>c+<f+>c+<f+>d+<a+>d+<a+>c+<f+>c+<f+>d+<a+>d+<a+>d+<a+>d+<a+
+l1b>c+<b>c+<b>c+<b
+l8>c+c+c+c+c+c+l4c+d+<a+>d+<a+>c+<a->c+<a->d+<a+>d+<a+>c+<f+>c+<f+>
+d+<a+>d+<a+>c+<f+>c+<f+>d+<a+>d+<a+>c+<f+>c+<f+>d+<a+>d+<a+>d+<a+>d+<a+
+l1b>c+<b>c+<b>c+<bl8>c+c+c+c+c+c+c+4

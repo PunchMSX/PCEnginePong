@@ -1,0 +1,74 @@
+.TRACK  Karnov_Rulez
+.CHANNEL 0 setup_karnov
+T72 V31
+
+.CHANNEL 1 ch1_karnov
+O4 P12,15 @46 @E04
+l8b+g+gg+a+>cc+<a+>d+d32d+32d16cd<a+g+ga+fgg+fgg+16g16d+gf1>d+<
+bl16a+ba+bl8>c+d+ec+f+f32f+32f16d+fc-c+<a+f+g+a+bg+a+b16a+16f+a+g+1>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>a<f+>a<f+>
+f<f>f<f>f+<f+>f+<f4f4f>a<f+>a<f+>f<f>f<f>f+<f+>f+<f4f4fb+g+gg+a+>cc+<a+>d+d32
+d+32d16cd<a+g+ga+fgg+fgg+16g16d+gf1>d+<bl16a+ba+bl8>c+d+ec+f+f32f+32f16
+d+fc-c+<a+f+g+a+bg+a+b16a+16f+a+g+1>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>a<f+>a<f+>f<f>f<f>f+<f+>f+<f4f4f>a<f+>a<f+>f<f>f
+<f>f+<f+>f+<f4f4f/ch1_karnov/
+
+.CHANNEL 2 ch1_karnov2
+O4 P12,15 @45 @E04 @D-2
+l8b+g+gg+a+>cc+<a+>d+d32d+32d16cd<a+g+ga+fgg+fgg+16g16d+gf1>d+<
+bl16a+ba+bl8>c+d+ec+f+f32f+32f16d+fc-c+<a+f+g+a+bg+a+b16a+16f+a+g+1>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>a<f+>a<f+>
+f<f>f<f>f+<f+>f+<f4f4f>a<f+>a<f+>f<f>f<f>f+<f+>f+<f4f4fb+g+gg+a+>cc+<a+>d+d32
+d+32d16cd<a+g+ga+fgg+fgg+16g16d+gf1>d+<bl16a+ba+bl8>c+d+ec+f+f32f+32f16
+d+fc-c+<a+f+g+a+bg+a+b16a+16f+a+g+1>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>a<f+>a<f+>f<f>f<f>f+<f+>f+<f4f4f>a<f+>a<f+>f<f>f
+<f>f+<f+>f+<f4f4f/ch1_karnov2/
+
+.CHANNEL 3 ch1_karnov3
+O3 P15,12 @09 @E01
+l8b+g+gg+a+>cc+<a+>d+d32d+32d16cd<a+g+ga+fgg+fgg+16g16d+gf1>d+<
+bl16a+ba+bl8>c+d+ec+f+f32f+32f16d+fc-c+<a+f+g+a+bg+a+b16a+16f+a+g+1>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>a<f+>a<f+>
+f<f>f<f>f+<f+>f+<f4f4f>a<f+>a<f+>f<f>f<f>f+<f+>f+<f4f4fb+g+gg+a+>cc+<a+>d+d32
+d+32d16cd<a+g+ga+fgg+fgg+16g16d+gf1>d+<bl16a+ba+bl8>c+d+ec+f+f32f+32f16
+d+fc-c+<a+f+g+a+bg+a+b16a+16f+a+g+1>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>a<f+>a<f+>f<f>f<f>f+<f+>f+<f4f4f>a<f+>a<f+>f<f>f
+<f>f+<f+>f+<f4f4f/ch1_karnov3/
+
+.CHANNEL 4 ch1_karnov4
+O4 P15,12 @09 @E01 @D-2
+l8b+g+gg+a+>cc+<a+>d+d32d+32d16cd<a+g+ga+fgg+fgg+16g16d+gf1>d+<
+bl16a+ba+bl8>c+d+ec+f+f32f+32f16d+fc-c+<a+f+g+a+bg+a+b16a+16f+a+g+1>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>a<f+>a<f+>
+f<f>f<f>f+<f+>f+<f4f4f>a<f+>a<f+>f<f>f<f>f+<f+>f+<f4f4fb+g+gg+a+>cc+<a+>d+d32
+d+32d16cd<a+g+ga+fgg+fgg+16g16d+gf1>d+<bl16a+ba+bl8>c+d+ec+f+f32f+32f16
+d+fc-c+<a+f+g+a+bg+a+b16a+16f+a+g+1>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>d+<d+>f+<d+>d<d>d<d>d+<d+>d+<d4d4d>a<f+>a<f+>f<f>f<f>f+<f+>f+<f4f4f>a<f+>a<f+>f<f>f
+<f>f+<f+>f+<f4f4f/ch1_karnov4/
+
+.CHANNEL 5 ch2_karnov
+O2 P14,14 @21 @E04
+l8o2g+>g+g+g+<g+2g+>g+g+g+<g+2g+>g+g+g+<g+2g+>g+g+g+<g+2b>bbb<b2b>
+bbb<b2b>bbb<b2b>bbb<b2g+>g+4<g+g+2g+>g+4<g+g+2g+>g+4<g+g+2g+>g+4<g+g+2b>b4<bb2b>b4<bb2b>b4<bb2b>b4<bb2g+>g+g+g+<g+2g+>g+g+g+<g+2g+>g+g+g+<g+2g+>g+g+g+<g+2b>bbb<b2b>bbb<b2b>bbb<b2b>bbb<b2g+>g+4<g+g+2g+>g+4<g+g+2g+>g+4<g+g+2g+>g+4<g+g+2b>b4<bb2b>b4<bb2b>b4<bb2b>b4<bb3./ch2_karnov/
+
+.CHANNEL 6 ch3_karnov
+O4 P15,15  @E01 @M1
+o2d+d+d+8l32d+d+d+d+d+8d+8d+4d+4d+8d+d+d+d+d+8d+8d+4d+4d+8d+d+d+d+d+8d+8
+d+4d+4d+8d+d+d+d+d+8d+8d+4d+4d+8d+d+d+d+d+8d+8d+4d+4d+8d+d+d+d+d+8d+8d+4
+d+4d+8d+d+d+d+d+8d+8d+4d+4d+8d+d+d+d+d+8l4.d+d+2d+2d+d+8d+2d+2d+2d+d+8d+8
+d+d+2d+2d+d+8d+8l16d+d+4&d+d+2d+2l4d+d+8d+8d+d+d+d+8l32d+d+d+d+d+8d+8d+4d+4d+8
+d+d+d+d+d+8d+8d+4d+4d+8d+d+d+d+d+8d+8d+4d+4d+8d+d+d+d+d+8d+8d+4d+4d+8d+d+
+d+d+d+8d+8d+4d+4d+8d+d+d+d+d+8d+8d+4d+4d+8d+d+d+d+d+8d+8d+4d+4d+8d+d+d+d+
+d+8l4.d+d+2d+2d+d+8d+2d+2d+2d+d+8d+8d+d+2d+2d+d+8d+8l16d+d+4&d+d+2d+2d+4d+8d+8d+4/ch3_karnov/
+
+
+.WAVE 45 Sawp
+		31,30,29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0
+.WAVE 46 SAWP2
+		31,29,27,25,23,21,19,17,15,13,11,9,7,5,3,1,1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31
+
+.Perc 0 
+       C:  E01 W00 P12,12 T4095 T4095 T3000         
+       C#: E01 W00 P15,15  T200  T400  T800 N15 N20 T1000 T750 N15 N20 T1000 T2000 T3000 T4095 N9 N15  
+       D:  E00 W00 P15,15  T90 T90 T110    N31 n30 n30 n29
+       D#: E01 W00 P13,13  T200  T400  T800 N15 N20 T1000 T750 N15 N20 T1000 T2000 
+       E:  E17 W45 P15,15 T940  T103      N31 N27 N29 N26
+       F:  E17 W45 P15,15 T940  T103      N31 N27 N29 N26
+       F#: E17 W45 P15,15 T940  T103      N31 N27 N29 N26
+       G:  E17 W45 P15,15 T940  T103      N31 N27 N29 N26
+       G#: E17 W45 P15,15 T940  T103      N31 N27 N29 N26
+       A:  E17 W45 P15,15 T940  T103      N31 N27 N29 N26
+       A#: E17 W45 P15,15 T940  T103      N31 N27 N29 N26
+       B:  E17 W45 P15,15 T940  T103      N31 N27 N29 N26
